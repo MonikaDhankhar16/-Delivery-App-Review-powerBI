@@ -24,3 +24,19 @@ If returns are being collected
 A 1 in the data represents true
 
 A 0 represents false
+Match Method is either- Manual or scanned. If the app was used correctly then they would have scanned.
+
+Label damage-One of the main reasons match methods are manual is because there is normally damage to the label for scanning however this is not always the case we can sometimes have a damaged label that we still managed to scan and even a perfect label that they still used manual entry.
+
+Damage- represents if there was any damage to the actual parcels being delivered.
+
+Returns Collected- Stores are allowed to send customer returns, old stock etc and this field indicates if the store did or not.
+
+
+## The key metrics were:
+
+The no of manual scans
+
+The no of damaged labels
+
+The time spent store
